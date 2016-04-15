@@ -28,6 +28,7 @@ h6 {
 .lead {
   font-size: 18px;
   font-weight: 400;
+  text-align: justify;
 }
 
 .intro-header {
@@ -181,4 +182,11 @@ a.back-to-top {
 
 a:hover.back-to-top {
   background-color: #000;
+}
+
+.video-container {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
