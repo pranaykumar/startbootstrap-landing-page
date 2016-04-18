@@ -190,3 +190,12 @@ a:hover.back-to-top {
   border-radius: 5px;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
+
+/* Add to bootstrap list style */
+.list-inline {
+  margin-top: -15px;
+}
+
+.list-inline>li {
+  margin-top: 15px;
+}
