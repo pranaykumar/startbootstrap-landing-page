@@ -95,6 +95,11 @@ h6 {
   background-color: #f8f8f8;
 }
 
+.container-img {
+  width: 100%;
+  border-radius: 5px;
+}
+
 .content-section-b {
   padding: 50px 0;
   border-top: 1px solid #e7e7e7;
@@ -191,7 +196,9 @@ a:hover.back-to-top {
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
+
 /* Add to bootstrap list style */
+
 .list-inline {
   margin-top: -15px;
 }
