@@ -206,3 +206,7 @@ a:hover.back-to-top {
 .list-inline>li {
   margin-top: 15px;
 }
+
+.show-more-link {
+  float: right;
+}
