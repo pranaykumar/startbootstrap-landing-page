@@ -91,19 +91,24 @@ h6 {
 }
 
 .content-section-a {
-  padding: 50px 0;
+  padding-top: 10px;
   background-color: #f8f8f8;
 }
 
 .container-img {
   width: 100%;
   margin-top: 40px;
+  margin-bottom: 120px;
   border-radius: 10px;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.4);
 }
 
 .content-section-b {
-  padding: 50px 0;
+  padding-top: 10px;
+}
+
+.extended-container {
+  padding-bottom: 100px;
 }
 
 .section-heading {
