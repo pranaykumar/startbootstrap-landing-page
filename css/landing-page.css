@@ -212,3 +212,7 @@ a:hover.back-to-top {
   margin-top: 15px;
 }
 
+.carousel {
+  background: linear-gradient(180deg, #06102f,60%, #e5bd8b);
+  padding-top: 25px;
+}
