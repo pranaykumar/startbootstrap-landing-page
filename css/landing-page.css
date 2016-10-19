@@ -216,3 +216,18 @@ a:hover.back-to-top {
   background: linear-gradient(180deg, #06102f,60%, #e5bd8b);
   padding-top: 25px;
 }
+
+.video-container {
+  position: relative;
+  padding-bottom: 37.25%;
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
