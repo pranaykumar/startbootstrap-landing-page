@@ -1,0 +1,31 @@
+.intro-header-mana {
+  margin-top: 50px;
+  /* If you're making other pages, make sure there is 50px of margin to make sure the navbar doesn't overlap content! */
+  margin-bottom: 50px;
+  text-align: center;
+  color: #f8f8f8;
+  background: url(../img/bg-dark-triangles.png) repeat center center;
+}
+
+.intro-header-mana .container {
+	  background: url(../img/mana-loop.png) no-repeat center center;
+	  background-size: contain;
+	  height: 35vh; 
+}
+
+.more-demo-div {
+	margin-top: 30px;
+}
+
+.more-demo-div .btn {
+	margin-bottom: 5px;
+	text-transform: uppercase;
+}
+
+.more-demo-div img {
+	padding: 10px;
+  -webkit-box-shadow: 5px 6px 15px 1px rgb(184, 184, 184);
+  -moz-box-shadow: 5px 6px 15px 1px rgb(184, 184, 184);
+  box-shadow: 5px 5px 10px 1px rgb(184, 184, 184);
+  border-radius: 4px;
+}
