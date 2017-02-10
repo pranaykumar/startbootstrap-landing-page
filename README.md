@@ -17,6 +17,10 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
+## Run locally
+
+run live-server command from root folder
+
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller
 
